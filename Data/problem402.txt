@@ -1,0 +1,1 @@
+You are given a binary array nums (0-indexed).

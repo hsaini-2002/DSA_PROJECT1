@@ -1,0 +1,1 @@
+A swap is defined as taking two distinct positions in an array and swapping the values in them.

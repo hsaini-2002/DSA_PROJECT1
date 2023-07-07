@@ -1,0 +1,1 @@
+Given an integer array nums, partition it into two (contiguous) subarrays left and right so that:

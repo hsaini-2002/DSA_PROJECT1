@@ -1,0 +1,1 @@
+Given a sentence text (A sentence is a string of space-separated words) in the following format:

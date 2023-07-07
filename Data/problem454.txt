@@ -1,0 +1,1 @@
+Given an array nums of integers, a move consists of choosing any element and decreasing it by 1.

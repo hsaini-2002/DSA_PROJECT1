@@ -1,0 +1,65 @@
+body{
+    background: rgb(41, 58, 66);
+    /* background-color: wheat; */
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.querQuestion{
+    padding: 10px;
+    padding-left: 70px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 50vw;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.askMeButton{
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    /* width: 5vw; */
+}
+.askMeButton:hover{
+   background-color: beige;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    text-align: center;
+}
+.allquestions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.title{
+    color: #b9c3c3;
+    font-size: 20px!important;
+}
+.body{
+    color: #b9c3c3;
+    font-size: 18px!important;
+}
+.url a{
+    color: blue;
+    font-size: 16px!important;
+   /* background-color: blue; */
+    }
+    .url a:hover{
+        color: red!important;
+        }
+.loading{
+    font-size: 21px;
+    margin-top: 5px;
+}

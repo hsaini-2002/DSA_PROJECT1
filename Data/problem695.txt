@@ -1,0 +1,1 @@
+Given an integer n, find a sequence that satisfies all of the following:

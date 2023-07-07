@@ -1,0 +1,3 @@
+With respect to a given puzzle string, a word is valid if both the following conditions are satisfied:
+word contains the first letter of puzzle.
+For each letter in word, that letter is in puzzle.

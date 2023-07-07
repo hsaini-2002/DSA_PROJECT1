@@ -1,0 +1,1 @@
+A positive integer is magical if it is divisible by either a or b.

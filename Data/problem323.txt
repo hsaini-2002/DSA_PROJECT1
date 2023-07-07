@@ -1,0 +1,1 @@
+You are given an array of strings of the same length words.

@@ -1,0 +1,1 @@
+Design a data structure to find the frequency of a given value in a given subarray.

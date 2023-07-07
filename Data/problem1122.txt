@@ -1,0 +1,1 @@
+In a string s of lowercase letters, these letters form consecutive groups of the same character.

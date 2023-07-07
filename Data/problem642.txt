@@ -1,0 +1,1 @@
+You are given a list of preferences for n friends, where n is always even.

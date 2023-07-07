@@ -1,0 +1,1 @@
+A cell (r, c) of an excel sheet is represented as a string "<col><row>" where:

@@ -1,0 +1,1 @@
+An additive number is a string whose digits can form an additive sequence.
